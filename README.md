@@ -24,7 +24,10 @@ You can click the Preview link to take a look at your changes.
 - [LinkedIn](https://www.linkedin.com/in/nowfal-ahamed-477878255/)
 
 ###### I code in
-<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/my-sql.png" alt="my-sql"/>
+ <img width="52" height="52" src="https://img.icons8.com/fluency/48/my-sql.png" alt="my-sql"/> <img width="52" height="52" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+
+###### Tools I use 
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="microsoft-excel-2019"/> <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/> <img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
 
 
 
