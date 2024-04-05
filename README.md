@@ -23,3 +23,6 @@ You can click the Preview link to take a look at your changes.
 #### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nowfal-ahamed-477878255/)
 
+
+![sql language](https://github-readme-stats.vercel.app/api/sql_language/?username=nowfal412&layout=compact&theme=dark)
+
