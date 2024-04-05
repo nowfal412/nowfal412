@@ -21,6 +21,5 @@ You can click the Preview link to take a look at your changes.
 
 
 #### Connect with Me
-- [LinkedIn](link)
-- [Twitter](link)
-- [Portfolio](link)
+- [LinkedIn](https://www.linkedin.com/in/nowfal-ahamed-477878255/)
+
