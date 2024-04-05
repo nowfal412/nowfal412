@@ -29,6 +29,7 @@ You can click the Preview link to take a look at your changes.
 ###### Tools I use 
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="microsoft-excel-2019"/> <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/> <img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
 
+[![nowfal412 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nowfal412&bg_color=190a12&color=ada9ac&line=b6b909&point=f5f5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
