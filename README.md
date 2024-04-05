@@ -10,19 +10,27 @@ You can click the Preview link to take a look at your changes.
 ## About me 
   Driven by a passion for continuous improvement, I actively seek out opportunities to expand my skill set and stay abreast of emerging technologies and methodologies in the field of data analysis. I am eager to leverage my expertise and contribute to the success of [company/organization] by harnessing the power of data to drive innovation and achieve strategic objectives.
 
-## Skills
+### Skills
 - [SQl]
 - [ Microsoft Excel]
 - [Power bi]
 - [tableau]
 
-### Projects
+#### Projects
 - [online bookstore database ](https://github.com/nowfal412/sql_project/blob/main/online_bookstore_database%20sql.sql)
 
 
-#### Connect with Me
+##### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nowfal-ahamed-477878255/)
 
+###### I code in
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/my-sql.png" alt="my-sql"/>
 
-![sql language](https://github-readme-stats.vercel.app/api/sql_language/?username=nowfal412&layout=compact&theme=dark)
+
+
+
+
+
+
+
 
